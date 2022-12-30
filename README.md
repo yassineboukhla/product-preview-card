@@ -5,4 +5,4 @@ This is a solution by YASSINE BOUKHLA to the [Product preview card component cha
 Desktop & mobile responsive.
 
 #Live preview:
-[Check from here]("https://yassineboukhla.github.io/product-preview-card")
+[Check from here](https://yassineboukhla.github.io/product-preview-card)
